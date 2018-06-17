@@ -9,6 +9,7 @@ const Piny = {
     // return all the working parts too
     convert(text) {
         text = Piny.spacePunctuation(text);
+        text = Piny.fixPunctuation(text)
         let cut = nodejieba.cut(text, true);
         let out = "", prevIsCharacter = false;
         cut.forEach((text) => {
