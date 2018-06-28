@@ -4,7 +4,7 @@
   "author": "Peter Olson <peter.e.c.olson+npm@gmail.com> modified by dcsan",
   "description": "Converter from Chinese characters to pinyin.",
   "license": "Unlicense",
-  "main": "./pinyinify",
+  "main": "./pinyin-max",
   "repository": {
     "type": "git",
     "url": "git@github.com:dcsan/pinyin-max.git"
