@@ -1,5 +1,13 @@
 # pinyinify
 
+forked from peterolson/pinyinify
+
+modified to return the whole internals including node-jieba method of chunking.
+
+This lib uses NPM pinyin package
+but adds a word dictionary to better guess the most frequent characters
+
+
 转换汉字为拼音。 Convert Chinese characters to pinyin. 
 
     > pinyinify("转换汉字为拼音。")

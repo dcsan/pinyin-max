@@ -1,13 +1,13 @@
 {
-  "name": "pinyinify",
+  "name": "pinyin-max",
   "version": "0.1.1",
-  "author": "Peter Olson <peter.e.c.olson+npm@gmail.com>",
+  "author": "Peter Olson <peter.e.c.olson+npm@gmail.com> modified by dcsan",
   "description": "Converter from Chinese characters to pinyin.",
   "license": "Unlicense",
   "main": "./pinyinify",
   "repository": {
     "type": "git",
-    "url": "git@github.com:peterolson/pinyinify.git"
+    "url": "git@github.com:dcsan/pinyin-max.git"
   },
   "scripts": {
     "test": "jasmine"
